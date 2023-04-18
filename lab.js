@@ -103,6 +103,12 @@ let {color, make, model, year} = carDetails
   The property names are firstName, lastName, and title.
 */
 
+// const person = {
+//   firstName: 'Alec',
+//   lastName: 'Wixom',
+//   title: 'Student'
+// }
+
 function greeting( obj ) {
   //Code Here
 
@@ -114,6 +120,7 @@ function greeting( obj ) {
   // Do not edit the code above.
 }
 
+// console.log(greeting(person));
 
 
 //////////////////////////// PROBLEM 8 ////////////////////////////
